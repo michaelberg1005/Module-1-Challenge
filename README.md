@@ -1,6 +1,5 @@
-# Module-1-Challenge
-Excel KickStarter Module 1 Challenge - Michael Berg
-# Module 1 Challenge Analysis - Michael Berg
+
+# Module 1 Challenge: An Analysis of KickStarter Campaigns- Michael Berg
 Conclusion 1: xxx 
 ---
 Conclusion 2: xxx 
