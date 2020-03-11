@@ -6,7 +6,9 @@ Conclusion 2: Theatre based KickStarter campaigns gradually grow in volume in th
 ---
 Conclusion 3: Looking at the entirety of the theatre parent category, plays had a signifcantly higher success rate than both the broader parent category, as well as the other subcategories within theatre. In particular, plays had a 67% success rate, while broader theatre had 61% success, which was dragged down by the subcategories of spaces and musicals having success rates of 47% and 43%, respectively. The exhibit below demonstrates the relative success rates of the parent and sub categories. ![Theatre Parent and Sub Category Likelihood of Success](https://raw.githubusercontent.com/michaelberg1005/Module-1-Challenge/master/Michael%20Berg%20Module%201%20-%20Theatre%20Success%20Rates.PNG)Overall, play is the highest likelihood of success subcategory within the theatre parent category.
 ---
-Limitations of the dataset: There are three key limitations of the dataset I think are critical to point out. 1. There is no data that lets us know if the campaigns that were successful and raised their desired goals, were then able to purchase or successfully obtain the stated goals in the blurb, or did they have to go back and raise more money. Simply because a campaign raised its goals, does not mean it was able to achieve its stated mission in totality. 2.
+Limitations of the dataset: There are three key limitations of the dataset I think are critical to point out. 
+1. There is no data that lets us know if the campaigns that were successful and raised their desired goals, were then able to purchase or successfully obtain the stated goals in the blurb, or did they have to go back and raise more money. Simply because a campaign raised its goals, does not mean it was able to achieve its stated mission in totality. 
+2.
 ---
 Suggestions for additional tables or graphs: 
 ---
